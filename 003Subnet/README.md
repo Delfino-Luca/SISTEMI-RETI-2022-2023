@@ -1,5 +1,5 @@
 # Esercizi Subnet Variabili
-In entrambi esercizi abbiamo calcolato l'indirizzo di network e di broadcast con gli host necessari per dividere una rete in sotto reti
+In entrambi gli esercizi abbiamo calcolato l'indirizzo di network e di broadcast con gli host necessari per dividere una rete in sotto reti
 
 ## subnet1.pkt
 Tre sotto reti da:
